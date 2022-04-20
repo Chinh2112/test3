@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ádsad
+=======
+sads
+>>>>>>> origin/main
