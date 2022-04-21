@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-chinh 
-=======
-chinh+quyen
->>>>>>> origin/week1
+chinh + quyen
