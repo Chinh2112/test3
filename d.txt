@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-sadhsd
-=======
-asdsa
->>>>>>> origin/main
+sadhs
