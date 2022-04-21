@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chinh 
+=======
+chinh + quyenasdsa
+>>>>>>> origin/week1
