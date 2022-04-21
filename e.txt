@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-quyen
-=======
-chinh
->>>>>>> week1
